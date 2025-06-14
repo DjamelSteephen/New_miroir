@@ -1,3 +1,3 @@
-cd miroir_app
+cd miroir-app
 
 nmp start
